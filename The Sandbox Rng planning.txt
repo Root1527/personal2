@@ -1,1 +1,4 @@
+this is a learning project for me to get used to coding.
+the reason I want to plan this game is because the game I was inspired from, Tycoon RNG, was cooked beyond repair.
 
+instead of having a set spot you can place items on, you can freely build on a 100x100 plate, like Miner's Haven (which is another of my inspiration).
